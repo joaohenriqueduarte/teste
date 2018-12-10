@@ -1,4 +1,5 @@
 //Computação Grafica
+//Versão 1.0
 //João Henrique Lima Duarte
 #include <stdio.h>
 #include <stdlib.h>
